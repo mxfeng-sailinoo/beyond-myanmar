@@ -1,0 +1,11 @@
+{
+ "slug":"thingyan","order":3,"category":"festival","media":"thingyan","geography":"nationwide",
+ "name":{"zh":"Thingyan｜一場水花迎新年","en":"Thingyan — A New Year in Water","my":"သင်္ကြန်"},
+ "eyebrow":{"zh":"03 / 節慶與習俗","en":"03 / THE SPIRIT OF CELEBRATION","my":"ပွဲတော်များ"},
+ "teaser":{"zh":"節日裡的水不只是熱鬧，也象徵告別舊的一年，迎接新的開始。","en":"The water is joyful, but it also speaks of cleansing, renewal and community.","my":"သင်္ကြန်သည် မြန်မာ့နှစ်သစ်ကူးပွဲတော်ဖြစ်ပြီး ရေကစားခြင်းနှင့် ကောင်းမှုကုသိုလ်ပြုခြင်းများ ပါဝင်သည်။"},
+ "story":{"zh":"四月的城市與城鎮，音樂、歡笑與潑水帶來新年的氣氛。但 Thingyan 並不只有水花：有人回家探親，有人向長輩致敬，也有人布施、禪修，或參與社區活動。","en":"In mid-April, music and water fill streets and gathering places. Yet Thingyan is more than the splash: many people return home, honor elders, share food, give to charity, or take time for reflection."},
+ "context":{"zh":"Atā Thingyan 是緬甸傳統新年節慶，通常在四月中旬舉行。潑水象徵洗去舊年的不順與迎接更新。各社群慶祝方式有所不同。UNESCO 於 2024 年將它列入人類非物質文化遺產代表作名錄。","en":"Atā Thingyan is Myanmar's traditional New Year festival, usually celebrated in mid-April. Water symbolizes cleansing and a fresh beginning. Customs differ across communities. UNESCO inscribed the festival on the Representative List of the Intangible Cultural Heritage of Humanity in 2024."},
+ "moments":[{"zh":"對長輩表達敬意，也是常見的新年傳統之一。","en":"Paying respect to elders is part of the festival for many families."},{"zh":"慈善與布施讓節慶不只是一場狂歡。","en":"Giving and community care share the stage with celebration."},{"zh":"相似的潑水節在東南亞其他國家也有，但各地意義與習俗不完全相同。","en":"Neighboring countries have related water festivals, each with distinctive practices."}],
+ "note":{"zh":"水花落下之後，迎接的是一個新的開始。","en":"Beyond the splash is the promise of beginning again."},
+ "sources":[{"title":"UNESCO — Myanmar traditional New Year Atā Thingyan festival","url":"https://ich.unesco.org/en/RL/myanmar-traditional-new-year-at-thingyan-festival-02085"},{"title":"Wikimedia Commons — festival photograph and license","url":"https://commons.wikimedia.org/wiki/File:Water_Fesitval.jpg"}]
+}

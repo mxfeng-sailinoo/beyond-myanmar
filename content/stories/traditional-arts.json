@@ -1,0 +1,58 @@
+{
+  "slug": "traditional-arts",
+  "order": 5,
+  "category": "art",
+  "media": "traditional-arts",
+  "geography": "pathein",
+  "name": {
+    "zh": "Traditional Arts｜傘影與木偶的故事",
+    "en": "Traditional Arts — Parasols & Puppetry",
+    "my": "မြန်မာ့ရိုးရာအနုပညာ"
+  },
+  "eyebrow": {
+    "zh": "05 / 活著的藝術",
+    "en": "05 / LIVING ARTS",
+    "my": "ရိုးရာအနုပညာ"
+  },
+  "teaser": {
+    "zh": "一把彩繪工藝傘、一尊舞台木偶，讓我們看見緬甸手工藝與表演藝術的不同面貌。",
+    "en": "A hand-painted parasol and a stage marionette reveal different sides of Myanmar craft and performance.",
+    "my": "မြန်မာ့ရိုးရာထီးလုပ်ငန်း၊ ရုပ်သေးနှင့် အနုပညာကို လေ့လာကြည့်ပါ။"
+  },
+  "story": {
+    "zh": "陽光照在色彩繽紛的傘面上，手工描繪的圖紋隨光線展開。另一頭，舞台上的木偶隨細線抬起手臂。從能拿在手上的工藝品，到能說故事的表演，緬甸的傳統藝術有許多不同的表情。",
+    "en": "Sunlight moves over a painted parasol, revealing its colors and patterns. Across a different artistic stage, a marionette lifts its arms on fine strings. From objects shaped by artisans to performances shaped by movement, Myanmar’s traditions take many forms."
+  },
+  "context": {
+    "zh": "伊洛瓦底江三角洲的勃生（Pathein）因手工傘製作而聞名，傘面常有彩繪裝飾。另一項獨特的藝術是緬甸傳統木偶戲 Yoke thé（ရုပ်သေး），以角色、操偶動作和音樂表達故事。兩者並不是同一種工藝，卻都讓我們看見創作者如何把技藝傳承到日常與舞台。",
+    "en": "Pathein in the Ayeyarwady Delta is known for decorated handcrafted parasols. In a different artistic tradition, Burmese marionette theatre (Yoke thé, ရုပ်သေး) tells stories through figures, skilled manipulation and music. Craftwork and puppetry are distinct practices, yet both show how knowledge travels between makers and generations."
+  },
+  "moments": [
+    {
+      "zh": "Pathein 的傳統傘結合傘骨、布面或其他材質與裝飾工藝。",
+      "en": "Pathein parasols combine frames, canopy materials and decorative craftsmanship."
+    },
+    {
+      "zh": "Yoke thé 以木偶、動作及音樂發展出表演敘事。",
+      "en": "Yoke thé theatre uses marionettes, movement and music to tell stories."
+    },
+    {
+      "zh": "不同地方與世代，工藝和表演形式也會持續改變。",
+      "en": "Crafts and performances evolve across places and generations."
+    }
+  ],
+  "note": {
+    "zh": "一把傘能承載工藝，一尊木偶能延續故事；文化留在那些願意創作的人手裡。",
+    "en": "A parasol carries craft, a puppet carries a story; heritage lives in the hands that keep creating."
+  },
+  "sources": [
+    {
+      "title": "Reading Museum — Parasol from Myanmar (Pathein traditional umbrellas)",
+      "url": "https://collections.readingmuseum.org.uk/index.asp?filename=REDMG&hitsStart=212&mwsquery=%7Btotopic%7D%3D%7BWorld+Collection%3A+Ornamentation%7D&page=record"
+    },
+    {
+      "title": "Wikimedia Commons — Burmese marionette theatre",
+      "url": "https://commons.wikimedia.org/wiki/Category:Puppetry_in_Myanmar"
+    }
+  ]
+}

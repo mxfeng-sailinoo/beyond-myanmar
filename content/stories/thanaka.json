@@ -1,0 +1,11 @@
+{
+ "slug":"thanaka","order":1,"category":"everyday","media":"thanaka","feature":true,"geography":"nationwide",
+ "name":{"zh":"Thanaka｜一抹香木粉的日常","en":"Thanaka — A Ritual Worn with Care","my":"သနပ်ခါး"},
+ "eyebrow":{"zh":"01 / 日常的美","en":"01 / THE BEAUTY OF EVERYDAY","my":"နေ့စဉ်ဘဝ"},
+ "teaser":{"zh":"在許多緬甸人的臉頰上，文化不是陳列品，而是一道每天都能看見的淡金色印記。","en":"For many people in Myanmar, culture is not behind glass. It is a pale-gold trace worn on the cheeks.","my":"သနပ်ခါးသည် မြန်မာတို့၏ နေ့စဉ်ဘဝနှင့် ဆက်စပ်နေသော ရိုးရာဓလေ့တစ်ခုဖြစ်သည်။"},
+ "story":{"zh":"早晨的木盤上，幾滴水與一小段香木被慢慢磨成細緻的糊狀。有人塗成圓形，有人畫成葉片。Thanaka 不只是一種臉部用品，也是許多人熟悉的家庭日常。","en":"On a grinding stone, a little water meets a piece of fragrant wood. The creamy paste becomes a circle, a sweep, or a leaf-shaped pattern on someone's cheek. Thanaka can be part of an ordinary morning—and a familiar memory of home."},
+ "context":{"zh":"Thanaka（緬文：သနပ်ခါး）通常由特定樹木的木材或樹皮加水研磨成糊，用於臉部與皮膚。它與日常保養、審美習慣及文化認同相連；使用方式因家庭、地區及個人而異。","en":"Thanaka (သနပ်ခါး) is a paste traditionally prepared by grinding suitable wood or bark with water on a stone. Used on the face and skin, it is associated with care, personal style and cultural memory. Practices vary by family, region and individual."},
+ "moments":[{"zh":"先研磨，再塗抹：常見的圓形石盤是製作過程的重要工具。","en":"Grind, mix, apply: a round stone slab is often part of the preparation."},{"zh":"臉上的圖案可以簡單，也可以很有創意。","en":"Patterns may be simple or decorative, depending on the wearer."},{"zh":"它是生活中的文化習慣，不代表每位緬甸人都會天天使用。","en":"It is a living practice, not something every person in Myanmar wears every day."}],
+ "note":{"zh":"文化不只有被保存的樣子，也有每天被使用的樣子。","en":"Culture does not only live in museums. Sometimes, it is part of getting ready for the day."},
+ "sources":[{"title":"UNESCO — Thanakha cultural practice nomination for 2026 examination","url":"https://ich.unesco.org/en/1447"},{"title":"Wikimedia Commons — photograph and license","url":"https://commons.wikimedia.org/wiki/File:Thanaka_woman.JPG"}]
+}

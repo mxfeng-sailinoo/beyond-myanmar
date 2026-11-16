@@ -1,0 +1,118 @@
+{
+  "brand": "BEYOND MYANMAR",
+  "tagline": {
+    "zh": "不止於印象，看見緬甸。",
+    "en": "There is more to every story.",
+    "my": "မြင်တွေ့ရသည်ထက် ပိုမိုနက်ရှိုင်းသော မြန်မာ့ယဉ်ကျေးမှု"
+  },
+  "intro": {
+    "zh": "從臉上的一抹香木粉，到迎接新年的一場水花。穿過風景，走進緬甸真實而多樣的文化日常。",
+    "en": "From a touch of thanaka to the joy of New Year water, step beyond the familiar image and discover Myanmar through the stories people carry.",
+    "my": "သနပ်ခါး၊ ရိုးရာအစားအစာ၊ ပွဲတော်များနှင့် လူနေမှုဘဝတို့မှတစ်ဆင့် မြန်မာ့ယဉ်ကျေးမှုကို လေ့လာကြည့်ပါ။"
+  },
+  "notice": {
+    "zh": "這是一份獨立文化誌。不同地區與社群的生活方式各有差異，本文不代表全體緬甸人的經驗。",
+    "en": "An independent cultural journal. Practices differ across communities and regions; no single story represents everyone in Myanmar.",
+    "my": "ဒေသနှင့် လူမှုအသိုင်းအဝိုင်းအလိုက် ယဉ်ကျေးမှုဓလေ့များ ကွဲပြားနိုင်ပါသည်။"
+  },
+  "categories": [
+    {
+      "id": "everyday",
+      "zh": "日常文化",
+      "en": "Everyday Rituals",
+      "my": "နေ့စဉ်ယဉ်ကျေးမှု"
+    },
+    {
+      "id": "food",
+      "zh": "飲食記憶",
+      "en": "Food & Memory",
+      "my": "အစားအစာ"
+    },
+    {
+      "id": "festival",
+      "zh": "節慶習俗",
+      "en": "Festivals",
+      "my": "ပွဲတော်များ"
+    },
+    {
+      "id": "heritage",
+      "zh": "歷史遺產",
+      "en": "Heritage",
+      "my": "သမိုင်းအမွေအနှစ်"
+    },
+    {
+      "id": "art",
+      "zh": "藝術表演",
+      "en": "Living Arts",
+      "my": "အနုပညာ"
+    },
+    {
+      "id": "language",
+      "zh": "語言文字",
+      "en": "Language",
+      "my": "ဘာသာစကား"
+    }
+  ],
+  "locations": [
+    {
+      "id": "bagan",
+      "name": {
+        "en": "Bagan",
+        "zh": "蒲甘",
+        "my": "ပုဂံ"
+      },
+      "lat": 21.17,
+      "lon": 94.86,
+      "story": "bagan",
+      "note": {
+        "zh": "世界遺產：佛教藝術與古建築",
+        "en": "World Heritage: architecture and Buddhist art"
+      }
+    },
+    {
+      "id": "mandalay",
+      "name": {
+        "en": "Mandalay",
+        "zh": "曼德勒",
+        "my": "မန္တလေး"
+      },
+      "lat": 21.96,
+      "lon": 96.09,
+      "story": "thanaka",
+      "note": {
+        "zh": "與 Thanaka 故事相關的示例城市；並非文化的唯一發源地",
+        "en": "An example city linked to our Thanaka story; not its sole place of origin"
+      }
+    },
+    {
+      "id": "yangon",
+      "name": {
+        "en": "Yangon",
+        "zh": "仰光",
+        "my": "ရန်ကုန်"
+      },
+      "lat": 16.87,
+      "lon": 96.19,
+      "story": "thingyan",
+      "note": {
+        "zh": "Thingyan 的慶祝城市之一；節日遍及各地",
+        "en": "One city where Thingyan is celebrated; the festival spans the country"
+      }
+    },
+    {
+      "id": "pathein",
+      "name": {
+        "zh": "勃生",
+        "en": "Pathein",
+        "my": "ပုသိမ်"
+      },
+      "lat": 16.7833,
+      "lon": 94.7333,
+      "story": "traditional-arts",
+      "note": {
+        "zh": "緬甸傳統彩繪手工傘工藝的代表城市",
+        "en": "A city associated with painted traditional parasol crafts"
+      }
+    }
+  ]
+}

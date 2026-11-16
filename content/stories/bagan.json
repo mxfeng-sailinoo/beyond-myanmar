@@ -1,0 +1,11 @@
+{
+ "slug":"bagan","order":4,"category":"heritage","media":"bagan","geography":"bagan",
+ "name":{"zh":"Bagan｜時間留下的風景","en":"Bagan — Where Time Becomes Landscape","my":"ပုဂံ"},
+ "eyebrow":{"zh":"04 / 歷史與文化遺產","en":"04 / HERITAGE & TIME","my":"သမိုင်းအမွေအနှစ်"},
+ "teaser":{"zh":"當晨光照在古老的佛塔上，建築成了一段可以步行走近的歷史。","en":"At dawn, brick temples and stupas turn centuries of devotion into a living landscape.","my":"ပုဂံသည် ရှေးဟောင်းဘုရားပုထိုးများနှင့် သမိုင်းဝင်အမွေအနှစ်များကြောင့် ထင်ရှားသော နေရာဖြစ်သည်။"},
+ "story":{"zh":"在伊洛瓦底江畔，佛塔的輪廓隨著光線逐漸清晰。走入蒲甘，看到的不只是壯麗建築，也是一段與佛教信仰、藝術和歷史記憶交織的文化地景。","en":"Along a bend of the Ayeyarwady River, silhouettes of stupas slowly emerge from the morning light. Bagan is not only a remarkable skyline; it is a cultural landscape shaped by devotion, art and history."},
+ "context":{"zh":"蒲甘位於緬甸中部，是重要的佛教建築與藝術遺產地。這裡保存寺廟、佛塔、壁畫、雕塑與考古遺存，見證 11 至 13 世紀蒲甘文明的發展。2019 年被列入 UNESCO 世界遺產名錄。","en":"In central Myanmar, Bagan preserves an exceptional ensemble of Buddhist temples, stupas, murals, sculptures and archaeological remains. It documents the 11th–13th century Bagan civilization and joined the UNESCO World Heritage List in 2019."},
+ "moments":[{"zh":"文化遺產包括建築，也包括壁畫、雕塑和仍被延續的宗教實踐。","en":"Heritage includes architecture, murals and sculpture, as well as living religious practice."},{"zh":"保存古蹟，也需要理解它們在當地社群生活中的意義。","en":"Conservation involves understanding the site's importance to living communities."},{"zh":"蒲甘不是整個緬甸文化的縮影，但能讓人看見深厚的歷史層次。","en":"Bagan tells a vital story, but it is not a stand-in for all of Myanmar."}],
+ "note":{"zh":"有些故事寫在紙上，有些故事留在磚石與光影之間。","en":"Some stories are written in books; others remain in brick and light."},
+ "sources":[{"title":"UNESCO World Heritage Centre — Bagan","url":"https://whc.unesco.org/en/list/1588/"},{"title":"Wikimedia Commons — Bagan Sunrise photograph","url":"https://commons.wikimedia.org/wiki/File:Bagan_Sunrise.jpg"}]
+}

@@ -1,0 +1,79 @@
+{
+  "thanaka": {
+    "localFile": "thanaka.webp",
+    "author": "Image supplied by site contributor; photographer credit pending",
+    "license": "Attribution and reuse rights to be confirmed before public redistribution",
+    "source": "",
+    "licenseUrl": "",
+    "caption": {
+      "zh": "臉上塗有 Thanaka 的人物影像",
+      "en": "Portrait with traditional Thanaka on the face"
+    }
+  },
+  "mohinga": {
+    "localFile": "mohinga.webp",
+    "author": "Image supplied by site contributor; photographer credit pending",
+    "license": "Attribution and reuse rights to be confirmed before public redistribution",
+    "source": "",
+    "licenseUrl": "",
+    "caption": {
+      "zh": "緬甸傳統魚湯米線 Mohinga",
+      "en": "Traditional Myanmar mohinga noodle soup"
+    }
+  },
+  "thingyan": {
+    "localFile": "thingyan.webp",
+    "author": "Image supplied by site contributor; photographer credit pending",
+    "license": "Attribution and reuse rights to be confirmed before public redistribution",
+    "source": "",
+    "licenseUrl": "",
+    "caption": {
+      "zh": "Thingyan 新年潑水慶祝場景",
+      "en": "Thingyan water festival celebration"
+    }
+  },
+  "bagan": {
+    "localFile": "bagan.webp",
+    "author": "Image supplied by site contributor; photographer credit pending",
+    "license": "Attribution and reuse rights to be confirmed before public redistribution",
+    "source": "",
+    "licenseUrl": "",
+    "caption": {
+      "zh": "緬甸蒲甘佛塔與景觀",
+      "en": "Bagan temples and landscape, Myanmar"
+    }
+  },
+  "traditional-arts": {
+    "localFile": "traditional-arts.webp",
+    "author": "Image supplied by site contributor; photographer credit pending",
+    "license": "Attribution and reuse rights to be confirmed before public redistribution",
+    "source": "",
+    "licenseUrl": "",
+    "caption": {
+      "zh": "繽紛的傳統工藝傘主題照片",
+      "en": "Colorful parasols illustrating traditional crafts"
+    }
+  },
+  "myanmar-language": {
+    "localFile": "myanmar-language.webp",
+    "author": "Image supplied by site contributor; photographer credit pending",
+    "license": "Attribution and reuse rights to be confirmed before public redistribution",
+    "source": "",
+    "licenseUrl": "",
+    "caption": {
+      "zh": "緬甸文字與書寫主題影像",
+      "en": "Myanmar script and lettering"
+    }
+  },
+  "map": {
+    "file": "Myanmar location map.svg",
+    "author": "Uwe Dedering / NordNordWest",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Myanmar_location_map.svg",
+    "caption": {
+      "zh": "緬甸位置地圖底圖，依授權署名；地點標記由本站添加",
+      "en": "Myanmar base map, attribution provided; point labels added by this site"
+    }
+  }
+}

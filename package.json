@@ -1,0 +1,17 @@
+{
+  "name": "beyond-myanmar",
+  "private": true,
+  "version": "1.1.0",
+  "type": "module",
+  "description": "An independent, bilingual editorial culture journal about Myanmar, with selected Myanmar-language content.",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "check": "node scripts/check.mjs",
+    "test": "npm run build && npm run check",
+    "new:story": "node scripts/new-story.mjs",
+    "preview": "python -m http.server 8000 --directory docs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

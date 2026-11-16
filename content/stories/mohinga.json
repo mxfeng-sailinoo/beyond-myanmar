@@ -1,0 +1,11 @@
+{
+ "slug":"mohinga","order":2,"category":"food","media":"mohinga","geography":"nationwide",
+ "name":{"zh":"Mohinga｜一碗緬甸的早晨","en":"Mohinga — A Morning in a Bowl","my":"မုန့်ဟင်းခါး"},
+ "eyebrow":{"zh":"02 / 飲食與記憶","en":"02 / FOOD & MEMORY","my":"အစားအစာ"},
+ "teaser":{"zh":"一碗魚湯米線，盛著香氣、早餐的忙碌，以及不同家庭記憶中的味道。","en":"A bowl of rice noodles and fragrant fish broth carries more than breakfast.","my":"မုန့်ဟင်းခါးသည် မြန်မာ့ရိုးရာအစားအစာများထဲမှ လူသိများသော အစားအစာဖြစ်သည်။"},
+ "story":{"zh":"清晨的攤位漸漸熱鬧，熱湯澆上細米線，再撒上各式配料。有人喜歡炸豆餅的酥脆，有人喜歡湯底的濃郁。Mohinga 是許多人熟悉的味道，也是地方食譜各有變化的料理。","en":"As the morning stalls stir to life, hot broth meets rice noodles and a choice of toppings. Some look for the crunch of fritters; others for the warmth of the broth. Mohinga is familiar to many, yet its recipes have room for local variation."},
+ "context":{"zh":"Mohinga（မုန့်ဟင်းခါး）通常以米線搭配魚湯或香料湯底，常見配料有炸物、香草或其他地方習慣的食材。它經常與早餐聯想在一起，但不只限於早晨享用；各地做法不同。","en":"Mohinga (မုန့်ဟင်းခါး) generally pairs rice noodles with a savory, often fish-based broth. Fritters, herbs and other toppings vary by place and preference. It is strongly associated with breakfast but is enjoyed beyond the morning as well."},
+ "moments":[{"zh":"同一道料理，可以有不同地區的湯底與配料。","en":"A shared dish, with regional approaches to broth and toppings."},{"zh":"炸物的酥脆感，常與熱湯形成鮮明對比。","en":"Crispy fritters offer a contrast to the warm broth."},{"zh":"認識一個地方，有時可以從日常的一碗早餐開始。","en":"Food can be an intimate entry point into everyday culture."}],
+ "note":{"zh":"文化也許就是那道讓人想起家的味道。","en":"Sometimes, a sense of place begins with a familiar flavor."},
+ "sources":[{"title":"Wikimedia Commons — Mohinga photograph and description","url":"https://commons.wikimedia.org/wiki/File:IMG_Mohinga.JPG"},{"title":"Wikimedia Commons — Mohinga image collection","url":"https://commons.wikimedia.org/wiki/Category:Mohinga"}]
+}

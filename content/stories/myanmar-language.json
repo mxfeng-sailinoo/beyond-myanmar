@@ -1,0 +1,11 @@
+{
+ "slug":"myanmar-language","order":6,"category":"language","media":"myanmar-language","geography":"nationwide",
+ "name":{"zh":"Myanmar Language｜從一句問候開始","en":"Myanmar Language — Start with a Greeting","my":"မြန်မာဘာသာ"},
+ "eyebrow":{"zh":"06 / 聲音與文字","en":"06 / WORDS & VOICES","my":"ဘာသာစကား"},
+ "teaser":{"zh":"一句「မင်္ဂလာပါ」，是向陌生世界打開的一扇門。","en":"A simple “မင်္ဂလာပါ” can be the beginning of a new connection.","my":"မင်္ဂလာပါ။ မြန်မာဘာသာစကားကို အတူတူ လေ့လာကြစို့။"},
+ "story":{"zh":"初次見面時，一句緬甸語問候往往就能讓對話更親近。字母圓潤、聲調富有節奏，但語言並不只是一套字形：每句話都會受到情境、禮貌與說話對象的影響。","en":"At a first meeting, even a small greeting can change the mood. Myanmar script has its distinctive rounded forms, but language is more than shapes: politeness, context and the person you speak to all matter."},
+ "context":{"zh":"緬甸語（Burmese / Myanmar language）是緬甸廣泛使用的語言之一，使用緬甸文字書寫。緬甸境內另有多種民族語言；本頁介紹的問候詞不代表所有語言或地方口音。","en":"Burmese, also called the Myanmar language, is widely used and written in Myanmar script. Many other languages are spoken across the country. The expressions here are an introduction, not a representation of every community or accent."},
+ "moments":[{"zh":"မင်္ဂလာပါ — 常見正式或禮貌的問候。","en":"မင်္ဂလာပါ — a familiar formal or polite greeting."},{"zh":"ကျေးဇူးတင်ပါတယ် — 表達感謝。","en":"ကျေးဇူးတင်ပါတယ် — an expression of thanks."},{"zh":"နေလို့ကောင်းလား / နေကောင်းလား — 視語境問候對方近況。","en":"နေကောင်းလား — a way to ask whether someone is well."}],
+ "note":{"zh":"每個字詞的背後，都是一種與他人建立關係的方法。","en":"Each phrase is a small invitation to connect."},
+ "sources":[{"title":"Tokyo University of Foreign Studies — Myanmar language greeting module","url":"https://coelang.tufs.ac.jp/mt/my/dmod/class/en_01_p.html"},{"title":"Hanns Seidel Foundation — Myanmar useful words (PDF)","url":"https://southeastasia.hss.de/fileadmin/user_upload/Projects_HSS/South_East_Asia/documents/2017/Myanmar/170101-hanns-seidel-foundation-myanmar-dos-and-donts-for-tourists-2nd-edition.pdf"},{"title":"Wikimedia Commons — Burmese script photograph","url":"https://commons.wikimedia.org/wiki/File:Burmese_script,_Amarapura,_Mandalay,_Myanmar.jpg"}]
+}

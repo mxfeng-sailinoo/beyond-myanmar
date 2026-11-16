@@ -1,0 +1,58 @@
+[
+  {
+    "id": "hello",
+    "my": "မင်္ဂလာပါ",
+    "roman": "Mingalaba",
+    "zh": "你好／您好",
+    "en": "Hello / greetings",
+    "source": "https://coelang.tufs.ac.jp/mt/my/dmod/class/en_01_p.html",
+    "audio": {
+      "status": "personal-recording",
+      "localFile": "hello.mp3",
+      "author": "Beyond Myanmar contributor (voice recording)",
+      "license": "Contributor-supplied recording; all rights reserved"
+    }
+  },
+  {
+    "id": "thanks",
+    "my": "ကျေးဇူးတင်ပါတယ်",
+    "roman": "Kyeizu tin ba de",
+    "zh": "謝謝",
+    "en": "Thank you",
+    "source": "https://southeastasia.hss.de/fileadmin/user_upload/Projects_HSS/South_East_Asia/documents/2017/Myanmar/170101-hanns-seidel-foundation-myanmar-dos-and-donts-for-tourists-2nd-edition.pdf",
+    "audio": {
+      "status": "personal-recording",
+      "localFile": "thanks.mp3",
+      "author": "Beyond Myanmar contributor (voice recording)",
+      "license": "Contributor-supplied recording; all rights reserved"
+    }
+  },
+  {
+    "id": "howareyou",
+    "my": "နေကောင်းလား",
+    "roman": "Nay kaung lar",
+    "zh": "你好嗎？",
+    "en": "How are you?",
+    "source": "https://southeastasia.hss.de/fileadmin/user_upload/Projects_HSS/South_East_Asia/documents/2017/Myanmar/170101-hanns-seidel-foundation-myanmar-dos-and-donts-for-tourists-2nd-edition.pdf",
+    "audio": {
+      "status": "personal-recording",
+      "localFile": "howareyou.mp3",
+      "author": "Beyond Myanmar contributor (voice recording)",
+      "license": "Contributor-supplied recording; all rights reserved"
+    }
+  },
+  {
+    "id": "myanmar",
+    "my": "မြန်မာ",
+    "roman": "Myanmar",
+    "zh": "緬甸",
+    "en": "Myanmar",
+    "source": "https://commons.wikimedia.org/wiki/File:%E1%80%99%E1%80%BC%E1%80%94%E1%80%BA%E1%80%99%E1%80%AC.ogg",
+    "audio": {
+      "status": "personal-recording",
+      "localFile": "myanmar.mp3",
+      "author": "Beyond Myanmar contributor (voice recording)",
+      "license": "Contributor-supplied recording; all rights reserved"
+    }
+  }
+]
